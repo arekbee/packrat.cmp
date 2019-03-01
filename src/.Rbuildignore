@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.gradle
+gradle*
+build.cmd
+build/
+tests/
+packrat/lib*
+packrat/src*
+gradle.properties
+.*report.html$
+README.md
