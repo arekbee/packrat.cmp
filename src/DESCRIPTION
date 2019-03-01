@@ -1,10 +1,10 @@
 Package: packrat.cmp
-Title: Compare packrat instances. 
+Title: Compare packrat instances
 Version: 0.0.0.1
 Authors@R: person("Arek", "B", email = "arekbee@gmail.com", role = c("aut", "cre"))
-Description: It will compare packart lock file
+Description: It will compare packart lock file.
 Depends: R (>= 3.5.0)
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat,
