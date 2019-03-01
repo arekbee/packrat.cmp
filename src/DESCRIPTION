@@ -1,8 +1,8 @@
 Package: packrat.cmp
-Title: Compare packrat instances
+Title: Compare Packrat Instances
 Version: 0.0.0.1
 Authors@R: person("Arek", "B", email = "arekbee@gmail.com", role = c("aut", "cre"))
-Description: It will compare packart lock file.
+Description: It will compare packrat lock file.
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -10,6 +10,5 @@ LazyData: true
 Suggests: testthat,
     knitr,
     rmarkdown
-VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 Imports: packrat
